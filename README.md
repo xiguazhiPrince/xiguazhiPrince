@@ -12,4 +12,4 @@
 Collaboration: Beyond engineering, also responsible for product and project management, leading and coordinating teams of 20+ people. Advocates for process optimization and documentation to improve efficiency and quality.
 
 
-[![xiguazhiPrince's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiguazhiPrince)](https://github.com/anuraghazra/github-readme-stats)
+[![xiguazhiPrince's GitHub stats](https://github-stats-extended.vercel.app/api?username=xiguazhiPrince)](https://github.com/anuraghazra/github-readme-stats)
